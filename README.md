@@ -10,11 +10,6 @@ Tenho 24 anos, moro em Paranavaí–PR, sou formado em Ciências Contábeis e at
 ## Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-## Contatos:
-
-
-<img width="2000" height="2000" alt="octocat-1765891763220" src="https://github.com/user-attachments/assets/c742ca97-1bb5-4505-8bdb-3fab6b400236" />
-<div class="tenor-gif-embed" data-postid="9354931344211857911" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/trabajando-gif-9354931344211857911">Trabajando Sticker</a>from <a href="https://tenor.com/search/trabajando-stickers">Trabajando Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ![Snake animation](https://github.com/fredmquirino/fredmquirino/blob/output/github-contribution-grid-snake.svg)
 
 <div>
