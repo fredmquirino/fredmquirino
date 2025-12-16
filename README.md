@@ -7,5 +7,5 @@
 ## Hello, Devs!!
 Tenho 24 anos, moro em Paranavaí–PR, sou formado em Ciências Contábeis e atualmente curso Engenharia de Software. Desde pequeno, sou apaixonado por tecnologia e estou sempre em busca de aprendizado e novos desafios na área.
 
-## Estou aprendendo
+## Estou aprendendo:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
