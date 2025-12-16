@@ -9,20 +9,14 @@ Tenho 24 anos, moro em Paranavaí–PR, sou formado em Ciências Contábeis e at
 
 ## Estou aprendendo:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+👨‍💻 Estudante do 3º ano de Engenharia de Software.
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
-      ‍ Estudante do 3º ano de Engenharia de Software.<br><br>
-       Atualmente aprofundando meus conhecimentos em programação e boas práticas através da plataforma Alura.<br><br>
-       Neste repositório, compartilho meus projetos, estudos e aprendizados, registrando minha evolução contínua como desenvolvedor.<br><br>
-       Você também pode acompanhar minha jornada pelo Instagram ou LinkedIn (links fixados).
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <img src="https://github.com/user-attachments/assets/352bb06d-cf09-456c-aa96-597944ee5c5e" width="260"/>
-    </td>
-  </tr>
-</table>
+📚 Atualmente aprofundando meus conhecimentos em programação e boas práticas através da plataforma Alura.
+
+🚀 Neste repositório, compartilho meus projetos, estudos e aprendizados, registrando minha evolução contínua como desenvolvedor.
+
+🔗 Você também pode acompanhar minha jornada pelo Instagram ou LinkedIn (links fixados).
+<img src="https://github.com/user-attachments/assets/352bb06d-cf09-456c-aa96-597944ee5c5e" width="260"/>
 
 <div>
 <a href="https://github.com/fredmquirino">
