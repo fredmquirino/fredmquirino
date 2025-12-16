@@ -16,7 +16,8 @@ Tenho 24 anos, moro em Paranavaí–PR, sou formado em Ciências Contábeis e at
 🚀 Neste repositório, compartilho meus projetos, estudos e aprendizados, registrando minha evolução contínua como desenvolvedor.
 
 🔗 Você também pode acompanhar minha jornada pelo Instagram ou LinkedIn (links fixados).
-<img src="https://github.com/user-attachments/assets/352bb06d-cf09-456c-aa96-597944ee5c5e" width="260"/>
+
+![Snake animation](https://github.com/seu-usuário-aqui/fredmquirino/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/fredmquirino">
