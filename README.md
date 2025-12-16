@@ -18,7 +18,7 @@ Tenho 24 anos, moro em Paranavaí–PR, sou formado em Ciências Contábeis e at
 
 🔗 Você também pode acompanhar minha jornada pelo Instagram ou LinkedIn (links fixados).
 
-<img width="500" height="500" alt="octocat-1765892436217" src="https://github.com/user-attachments/assets/352bb06d-cf09-456c-aa96-597944ee5c5e" />
+<img width="300" height="300" alt="octocat-1765892436217" src="https://github.com/user-attachments/assets/352bb06d-cf09-456c-aa96-597944ee5c5e" />
 
 <div>
 <a href="https://github.com/fredmquirino">
