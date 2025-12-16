@@ -22,6 +22,6 @@ Tenho 24 anos, moro em Paranavaí–PR, sou formado em Ciências Contábeis e at
 
 <div>
 <a href="https://github.com/fredmquirino">
-<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredmquirino&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=fredmquirino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredmquirino&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fredmquirino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
