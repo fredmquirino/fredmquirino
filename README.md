@@ -3,6 +3,7 @@
 <a href="https://www.instagram.com/fredmquirino?igsh=dGI5NWp4cDNzbjNq&utm_source=qr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="http://www.linkedin.com/in/frederico-martins-quirino" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 ## Hello, Devs!!
 Tenho 24 anos, moro em Paranavaí–PR, sou formado em Ciências Contábeis e atualmente curso Engenharia de Software. Desde pequeno, sou apaixonado por tecnologia e estou sempre em busca de aprendizado e novos desafios na área.
 
