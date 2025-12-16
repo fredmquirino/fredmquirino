@@ -9,6 +9,7 @@ Tenho 24 anos, moro em Paranavaí–PR, sou formado em Ciências Contábeis e at
 
 ## Estou aprendendo:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
 👨‍💻 Estudante do 3º ano de Engenharia de Software.
 
 📚 Atualmente aprofundando meus conhecimentos em programação e boas práticas através da plataforma Alura.
